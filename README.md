@@ -1,5 +1,5 @@
 # CivicReport
-Team : Infinite Loops 
+
 CivicReport is a civic-issue reporting platform for citizens and government teams. Citizens can submit issues with location, photos, and optional voice descriptions; officials can review, triage, update, and analyze reports from a protected dashboard.
 
 The project is designed as a single-page web application backed by a FastAPI service. It supports Bangla and English, real-time dashboard updates, AI-assisted report analysis, duplicate detection, and installable PWA behavior.
